@@ -10,3 +10,5 @@ Disallow:
 
 
 # this line added to check the git pull command
+
+# checking the git push thingy
